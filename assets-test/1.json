@@ -1,0 +1,38 @@
+{
+  "name": "jsid #001",
+  "symbol": "",
+  "description": "js desc",
+  "seller_fee_basis_points": 250,
+  "image": "image.png",
+  "animation_url": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    }
+  ],
+  "collection": {
+     "name": "test collection 02",
+     "family": "jsid "
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "28s2qka7W1dq99NjfXR4L7dtcKw1PYCCL1qUwg8FQX4Z",
+        "share": 50
+      },
+      {
+        "address": "4qkTQq4KHTEGyo8rSYkY4FTvcbSxauibUnUcq89i4YRL",
+        "share": 50
+      }
+    ]
+  }
+}
