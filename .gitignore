@@ -1,5 +1,4 @@
 node_modules
 .DS_Store
-metaplex-foundation
 yarn-error.log
 package-lock.json
