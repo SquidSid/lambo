@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "./static/css/main.92f45b35.chunk.css",
-    "main.js": "./static/js/main.763d1690.chunk.js",
-    "main.js.map": "./static/js/main.763d1690.chunk.js.map",
+    "main.css": "./static/css/main.9a156be2.chunk.css",
+    "main.js": "./static/js/main.d1b3a297.chunk.js",
+    "main.js.map": "./static/js/main.d1b3a297.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.24c6595c.js",
     "runtime-main.js.map": "./static/js/runtime-main.24c6595c.js.map",
-    "static/js/2.cfd9c982.chunk.js": "./static/js/2.cfd9c982.chunk.js",
-    "static/js/2.cfd9c982.chunk.js.map": "./static/js/2.cfd9c982.chunk.js.map",
+    "static/js/2.87c8af95.chunk.js": "./static/js/2.87c8af95.chunk.js",
+    "static/js/2.87c8af95.chunk.js.map": "./static/js/2.87c8af95.chunk.js.map",
     "static/js/3.32e10b52.chunk.js": "./static/js/3.32e10b52.chunk.js",
     "static/js/3.32e10b52.chunk.js.map": "./static/js/3.32e10b52.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.92f45b35.chunk.css.map": "./static/css/main.92f45b35.chunk.css.map",
-    "static/js/2.cfd9c982.chunk.js.LICENSE.txt": "./static/js/2.cfd9c982.chunk.js.LICENSE.txt",
+    "static/css/main.9a156be2.chunk.css.map": "./static/css/main.9a156be2.chunk.css.map",
+    "static/js/2.87c8af95.chunk.js.LICENSE.txt": "./static/js/2.87c8af95.chunk.js.LICENSE.txt",
+    "static/media/01_gif_small.acd7a73b.gif": "./static/media/01_gif_small.acd7a73b.gif",
+    "static/media/aboutimage.e2e6da78.png": "./static/media/aboutimage.e2e6da78.png",
+    "static/media/airdrop.83e98f07.png": "./static/media/airdrop.83e98f07.png",
     "static/media/bgm.a08ce8f9.png": "./static/media/bgm.a08ce8f9.png",
     "static/media/discord.41a54583.png": "./static/media/discord.41a54583.png",
     "static/media/lineup.4d19fa98.png": "./static/media/lineup.4d19fa98.png",
-    "static/media/overlay-m.d0c74100.png": "./static/media/overlay-m.d0c74100.png",
-    "static/media/overlay-s.cfb76d5a.png": "./static/media/overlay-s.cfb76d5a.png",
+    "static/media/marketplace.7791cc8a.png": "./static/media/marketplace.7791cc8a.png",
+    "static/media/merch.a4400362.png": "./static/media/merch.a4400362.png",
     "static/media/twitter.1b704970.png": "./static/media/twitter.1b704970.png"
   },
   "entrypoints": [
     "static/js/runtime-main.24c6595c.js",
-    "static/js/2.cfd9c982.chunk.js",
-    "static/css/main.92f45b35.chunk.css",
-    "static/js/main.763d1690.chunk.js"
+    "static/js/2.87c8af95.chunk.js",
+    "static/css/main.9a156be2.chunk.css",
+    "static/js/main.d1b3a297.chunk.js"
   ]
 }
